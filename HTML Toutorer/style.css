@@ -1,0 +1,34 @@
+/* h1 {
+    color : rgb(123, 255, 0); ]
+}
+p{
+    color: blue;
+}
+button{
+    color:brown;
+}
+body{
+    background-color : #03f4f3; 
+} */
+/* #box{
+    background: rgb(30, 255, 0);
+}
+.heading {
+    color: red;
+}
+button{
+    background-color: green;
+} */
+p {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 100px;
+}
